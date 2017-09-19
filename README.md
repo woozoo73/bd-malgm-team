@@ -60,3 +60,5 @@
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/yoonsup/how_to_choose_your_advisor/)
 * [아나키즘은 무정부주의인가?](http://anar.tistory.com/entry/%EC%95%84%EB%82%98%ED%82%A4%EC%A6%98%EC%9D%80-%EB%AC%B4%EC%A0%95%EB%B6%80%EC%A3%BC%EC%9D%98%EC%9D%B8%EA%B0%80)
 * [김해열 정신과](http://hu0303.egloos.com/)
+* ["망해도 네 책임"…사교육 없이 명문대 보낸 '비법'](http://news.sbs.co.kr/news/endPage.do?news_id=N1004398776&plink=COPYPASTE&cooper=SBSNEWSEND)
+* ['도서관이 놀이터'…책 읽는 모습 보여줘 호기심 유발](http://news.sbs.co.kr/news/endPage.do?news_id=N1004398775&plink=COPYPASTE&cooper=SBSNEWSEND)
