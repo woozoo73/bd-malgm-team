@@ -62,3 +62,4 @@
 * ["망해도 네 책임"…사교육 없이 명문대 보낸 '비법'](http://news.sbs.co.kr/news/endPage.do?news_id=N1004398776&plink=COPYPASTE&cooper=SBSNEWSEND)
 * ['도서관이 놀이터'…책 읽는 모습 보여줘 호기심 유발](http://news.sbs.co.kr/news/endPage.do?news_id=N1004398775&plink=COPYPASTE&cooper=SBSNEWSEND)
 * [집들이 예절 알려준다, 이 예의없는새끼들아.](http://pann.nate.com/talk/338767182)
+* [스피노자 에티카(3), 감정의 힘과 인간의 예속](https://m.blog.naver.com/chamnet21/220514060916)
