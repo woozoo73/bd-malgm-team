@@ -1,6 +1,17 @@
 # </> Malgm team note
 
 # Machine learning
+## Deep learning
+* [YouTube - 모두를 위한 딥러닝 강좌 시즌 1 : 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [완전쉬운 딥러닝 1](http://kr.deductiontheory.com/2017/01/blog-post.html)
+* [TensorFlow : GET STARTED](https://www.tensorflow.org/get_started/)
+* [TensorFlow : GET STARTED](https://www.tensorflow.org/get_started/get_started)
+* [TensorFlow : GET STARTED](https://www.tensorflow.org/get_started/mnist/beginners)
+* [TensorFlow : GET STARTED 한글](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/)
+* [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
+* [텐서플로 첫걸음](http://www.yes24.com/24/goods/30547754)
+* [박혜린 번역글](https://docs.google.com/presentation/d/1eBJWCbVl3m_FlRZJkdrXl-CT-CQqvhOghDZahANPs6Y/edit?ts=59a3d2e3)
+* [우병길 교정본](https://docs.google.com/presentation/d/1R_4v3_0jKFHHd-d9iuZIB7tmClxJqhTnwQE4-FCdZ8c/edit)
 ## Data
 * [Kaggle : The Home of Data Science & Machine Learning](https://www.kaggle.com/)
 * [국가수리과학연구소 : Jupyter Notebook/Hub의 퍼블릭 서비스](https://jupyter.nims.re.kr)
@@ -20,7 +31,7 @@
 # Agile
 * [애자일 선언](http://agilemanifesto.org/iso/ko/manifesto.html)
 * [보다 나은 개발자의 삶을 위하여](http://www.moreagile.net/2016/02/learning-new-stuff.html)
-* [애자일 선언은 아래의 오마주가 아닐까?](http://headstone.pe.kr/02_redHorse/communism/menifesto.htm)
+* [애자일 선언은 이것의 오마주가 아닐까?](http://headstone.pe.kr/02_redHorse/communism/menifesto.htm)
 ## TDD
 * [Junit 을 이용한 효율적인 단위 테스트 전략](http://www.javajigi.net/pages/viewpage.action?pageId=278)
 * [Junit 의 시작 그리고 TDD](http://uiandwe.tistory.com/entry/Junit-%EC%9D%98-%EC%8B%9C%EC%9E%91-%EA%B7%B8%EB%A6%AC%EA%B3%A0-TDD)
