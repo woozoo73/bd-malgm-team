@@ -3,6 +3,7 @@
 # Machine learning
 ## Deep learning
 * [YouTube - 모두를 위한 딥러닝 강좌 시즌 1 : 김성훈 교수님](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [해커에게 전해들은 머신러닝](https://tensorflow.blog/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 * [완전쉬운 딥러닝 1](http://kr.deductiontheory.com/2017/01/blog-post.html)
 * [TensorFlow : GET STARTED](https://www.tensorflow.org/get_started/)
 * [TensorFlow : GET STARTED](https://www.tensorflow.org/get_started/get_started)
