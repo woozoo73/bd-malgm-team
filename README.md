@@ -14,5 +14,6 @@
 * [원칙으 돌아가는 회사](https://brunch.co.kr/@younghakjang/32)
 * [일 잘하는 사람의 특징](https://brunch.co.kr/@shindong/38)
 * [팀장(중간관리자) 되면 안되는 분들의 공통점](https://brunch.co.kr/@beautytech/18)
-## 이야
+## 얘기
 * [사랑은오류](http://no-smok.net/nsmk/%EC%82%AC%EB%9E%91%EC%9D%80%EC%98%A4%EB%A5%98)
+* [공대생이필요했던이유](http://www.todayhumor.co.kr/board/view.php?table=humordata&no=1699754)
