@@ -30,10 +30,12 @@
 # Cloud
 ## PaaS
 * [PaaS / Cloud Foundry 문서 모음](https://drive.google.com/drive/u/0/folders/0BwTcw2sHhLpwWlFVS1lmcVJncTQ)
+* [The Twelve-Factor App](https://12factor.net/ko/codebase)
+* [The Twelve-Factor App 란 무엇인가?](https://12factor.net/ko/codebase)
 # Agile
 * [애자일 선언](http://agilemanifesto.org/iso/ko/manifesto.html)
 * [보다 나은 개발자의 삶을 위하여](http://www.moreagile.net/2016/02/learning-new-stuff.html)
-* [애자일 선언은 이것의 오마주가 아닐까?](http://headstone.pe.kr/02_redHorse/communism/menifesto.htm)
+* [애자일 선언은 이것의 오마주가 아닐까?](https://roadmichi.blogspot.kr/2016/01/the-twelve-factor-app.html)
 ## TDD
 * [Junit 을 이용한 효율적인 단위 테스트 전략](http://www.javajigi.net/pages/viewpage.action?pageId=278)
 * [Junit 의 시작 그리고 TDD](http://uiandwe.tistory.com/entry/Junit-%EC%9D%98-%EC%8B%9C%EC%9E%91-%EA%B7%B8%EB%A6%AC%EA%B3%A0-TDD)
