@@ -1,4 +1,17 @@
 # </> Malgm team note
+- [Machine learning](#machine-learning)
+  - [Deep learning](#deep-learning)
+  - [Data](#data)
+  - [Chatbot](#chatbot)
+- [Cloud](#cloud)
+  - [PaaS](#paas)
+- [Agile](#agile)
+  - [TDD](#tdd)
+  - [Code Review](#code-review)
+- [기타](#기타)
+  - [자세](#자세)
+  - [조직](#조직)
+  - [얘기](#얘기)
 
 # Machine learning
 ## Deep learning
