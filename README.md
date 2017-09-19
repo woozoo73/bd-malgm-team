@@ -42,4 +42,5 @@
 * [공대생이 필요했던 이유](http://www.todayhumor.co.kr/board/view.php?table=humordata&no=1699754)
 * [줄타기의 진실](http://m.navercast.naver.com/mobile_magazine_contents.nhn?rid=1427&attrId=&contents_id=79892&leafId=1087)
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/yoonsup/how_to_choose_your_advisor/)
+* [아나키즘은 무정부주의인가?](http://anar.tistory.com/entry/%EC%95%84%EB%82%98%ED%82%A4%EC%A6%98%EC%9D%80-%EB%AC%B4%EC%A0%95%EB%B6%80%EC%A3%BC%EC%9D%98%EC%9D%B8%EA%B0%80)
 * [김해열 정신과](http://hu0303.egloos.com/)
