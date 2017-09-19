@@ -48,6 +48,7 @@
 * [소스코드 리뷰](http://blog.naver.com/PostView.nhn?blogId=love0188&logNo=60129676597&redirect=Dlog&widgetTypeCall=true)
 # 기타
 ## 자세
+* [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [지적 프로그래밍을 위한 넓고 얇은 습관/ 카카오 서지연](https://www.youtube.com/watch?v=aP9mhLBJMLw)
 ## 조직
 * [원칙으 돌아가는 회사](https://brunch.co.kr/@younghakjang/32)
