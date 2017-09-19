@@ -10,8 +10,8 @@
 * [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [텐서플로 첫걸음](http://www.yes24.com/24/goods/30547754)
 * [特にプログラマーでもデータサイエンティストでもないけど、Tensorflowを1ヶ月触ったので超分かりやすく解説](http://qiita.com/tawago/items/c977c79b76c5979874e8)
-> > * [박혜린 번역글](https://docs.google.com/presentation/d/1eBJWCbVl3m_FlRZJkdrXl-CT-CQqvhOghDZahANPs6Y/edit?ts=59a3d2e3)
-> > * [우병길 교정본](https://docs.google.com/presentation/d/1R_4v3_0jKFHHd-d9iuZIB7tmClxJqhTnwQE4-FCdZ8c/edit)
+  > * [박혜린 번역글](https://docs.google.com/presentation/d/1eBJWCbVl3m_FlRZJkdrXl-CT-CQqvhOghDZahANPs6Y/edit?ts=59a3d2e3)
+  > * [우병길 교정본](https://docs.google.com/presentation/d/1R_4v3_0jKFHHd-d9iuZIB7tmClxJqhTnwQE4-FCdZ8c/edit)
 * [딥러닝의 이해 #1 - 교육계획](https://docs.google.com/presentation/d/1bRke_zs0rNtzmxJXzWA-e6lchXVC3zOOC1Haf2E2QXM/edit?ts=59b0ebba#slide=id.g25fb86e271_0_15)
 * [딥러닝의 이해 #1 - 수강신청](https://docs.google.com/spreadsheets/d/1vQAs5T6zN8uZomSU6mMIyh_woRoeQ8BeKQ3u-GU3kg4/edit#gid=4)
 ## Data
