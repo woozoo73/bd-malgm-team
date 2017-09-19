@@ -15,6 +15,8 @@
 * [딥러닝의 이해 #1 - 교육계획](https://docs.google.com/presentation/d/1bRke_zs0rNtzmxJXzWA-e6lchXVC3zOOC1Haf2E2QXM/edit?ts=59b0ebba#slide=id.g25fb86e271_0_15)
 * [딥러닝의 이해 #1 - 수강신청](https://docs.google.com/spreadsheets/d/1vQAs5T6zN8uZomSU6mMIyh_woRoeQ8BeKQ3u-GU3kg4/edit#gid=4)
 * [PyTorch](http://pytorch.org/)
+* [Jupyter 다중커널(Python) 설치하기](http://bryan7.tistory.com/719)
+* [Jupyter와 R 연동방법](https://github.com/biospin/BigBio/blob/master/reference/Jupyter%EC%99%80R%EC%97%B0%EB%8F%99%EB%B0%A9%EB%B2%95.md)
 ## Data
 * [Kaggle : The Home of Data Science & Machine Learning](https://www.kaggle.com/)
 * [국가수리과학연구소 : Jupyter Notebook/Hub의 퍼블릭 서비스](https://jupyter.nims.re.kr)
