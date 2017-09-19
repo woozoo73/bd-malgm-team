@@ -8,6 +8,7 @@
 - [Agile](#agile)
   - [TDD](#tdd)
   - [Code Review](#code-review)
+- [Developer](#developer)
 - [기타](#기타)
   - [자세](#자세)
   - [조직](#조직)
@@ -57,6 +58,8 @@
 * [Why Code Review?](http://gsong.pe.kr/dev/2011/07/19/why-code-review.html)
 * [코드 리뷰에 필요한 태도와 마음가짐](http://gsong.pe.kr/dev/2011/07/25/attitude-toward-code-review.html)
 * [소스코드 리뷰](http://blog.naver.com/PostView.nhn?blogId=love0188&logNo=60129676597&redirect=Dlog&widgetTypeCall=true)
+# Developer
+* [국내 개발 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md)
 # 기타
 ## 자세
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
