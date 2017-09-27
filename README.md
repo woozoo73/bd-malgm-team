@@ -87,3 +87,4 @@
 * [스피노자 에티카(3), 감정의 힘과 인간의 예속](https://m.blog.naver.com/chamnet21/220514060916)
 * [사구플라워 - 화환 사만구천원](https://www.youtube.com/watch?v=6ysFi0IdEHk)
 * [브이 포 벤데타 명대사 : V For Vendetta 2005](http://sparedi.tistory.com/1)
+* ['캠릿브지 대학의 연결구과'를 이해하지 못한다면? '난독증' 의심](http://m.health.chosun.com/svc/news_view.html?contid=2015120902750)
