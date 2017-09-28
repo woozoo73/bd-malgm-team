@@ -66,6 +66,7 @@
 * [소스코드 리뷰](http://blog.naver.com/PostView.nhn?blogId=love0188&logNo=60129676597&redirect=Dlog&widgetTypeCall=true)
 # Developer
 * [국내 개발 블로그 모음](https://github.com/sarojaba/awesome-devblog/blob/master/README.md)
+* [카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/)
 # 기타
 ## 자세
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
