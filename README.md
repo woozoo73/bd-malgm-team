@@ -75,6 +75,7 @@
 * [원칙으 돌아가는 회사](https://brunch.co.kr/@younghakjang/32)
 * [일 잘하는 사람의 특징](https://brunch.co.kr/@shindong/38)
 * [팀장(중간관리자) 되면 안되는 분들의 공통점](https://brunch.co.kr/@beautytech/18)
+* [직장 바꾸거나 직장 바꾸거나](https://www.ibm.com/developerworks/community/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/entry/147?lang=en)
 ## 얘기
 * [사랑은오류](http://no-smok.net/nsmk/%EC%82%AC%EB%9E%91%EC%9D%80%EC%98%A4%EB%A5%98)
 * [공대생이 필요했던 이유](http://www.todayhumor.co.kr/board/view.php?table=humordata&no=1699754)
@@ -89,4 +90,3 @@
 * [사구플라워 - 화환 사만구천원](https://www.youtube.com/watch?v=6ysFi0IdEHk)
 * [브이 포 벤데타 명대사 : V For Vendetta 2005](http://sparedi.tistory.com/1)
 * ['캠릿브지 대학의 연결구과'를 이해하지 못한다면? '난독증' 의심](http://m.health.chosun.com/svc/news_view.html?contid=2015120902750)
-* [직장 바꾸거나 직장 바꾸거나](https://www.ibm.com/developerworks/community/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/entry/147?lang=en)
