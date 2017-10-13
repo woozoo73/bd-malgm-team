@@ -33,6 +33,7 @@
 * [Jupyter와 R 연동방법](https://github.com/biospin/BigBio/blob/master/reference/Jupyter%EC%99%80R%EC%97%B0%EB%8F%99%EB%B0%A9%EB%B2%95.md)
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [병렬처리 – First Contact with TensorFlow](https://tensorflow.blog/6-%EB%B3%91%EB%A0%AC%EC%B2%98%EB%A6%AC-first-contact-with-tensorflow/)
+* [인공뇌](http://dl.dongascience.com/magazine/view/S201203N001)
 ## Data
 * [Kaggle : The Home of Data Science & Machine Learning](https://www.kaggle.com/)
 * [국가수리과학연구소 : Jupyter Notebook/Hub의 퍼블릭 서비스](https://jupyter.nims.re.kr)
