@@ -35,6 +35,7 @@
 * [병렬처리 – First Contact with TensorFlow](https://tensorflow.blog/6-%EB%B3%91%EB%A0%AC%EC%B2%98%EB%A6%AC-first-contact-with-tensorflow/)
 * [인공뇌](http://dl.dongascience.com/magazine/view/S201203N001)
 * [패스트캠퍼스 데이터 사이언스 school](https://github.com/kimkipyo/dss_git_kkp)
+* [김로그](http://gnujoow.github.io/category/#ML)
 ## Data
 * [Kaggle : The Home of Data Science & Machine Learning](https://www.kaggle.com/)
 * [국가수리과학연구소 : Jupyter Notebook/Hub의 퍼블릭 서비스](https://jupyter.nims.re.kr)
